@@ -1,4 +1,4 @@
 # richa1
 this is my first repo.
 <br>
-author-richa
+author-richa ashu
